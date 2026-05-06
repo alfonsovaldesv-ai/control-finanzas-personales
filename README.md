@@ -16,4 +16,5 @@ Gracias a esto, ahora puedo validar y tener mayor claridad sobre cómo se distri
 - Google Sheets  
 - CSV / XLSX
 
-![Gráfico de gastos](Control de finanzas personales.png)
+<img width="600" height="371" alt="Control de finanzas personales" src="https://github.com/user-attachments/assets/efbd77b2-a95a-4dd4-a177-6b5b4d40dea3" />
+

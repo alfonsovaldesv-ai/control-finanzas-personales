@@ -9,6 +9,13 @@ La solución que construí fue un dashboard simple que organiza y visualiza los 
 **Proceso**  
 Para lograr esto, recopilé los datos desde el banco, limpié y unifiqué los montos, clasifiqué los gastos por categoría y generé visualizaciones para facilitar el análisis.
 
+**Características**
+- Clasificación automática de gastos mediante palabras clave
+- Diccionario configurable directamente desde Google Sheets
+- Manejo de transacciones desconocidas mediante categoría "Otros"
+- Visualización de gastos mediante tablas dinámicas y gráfico de torta
+- Automatización desarrollada con Google Apps Script
+
 **Resultado**  
 Gracias a esto, ahora puedo validar y tener mayor claridad sobre cómo se distribuyen mis gastos.
 

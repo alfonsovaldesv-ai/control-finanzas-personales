@@ -21,7 +21,7 @@ Para lograr esto, recopilé los datos desde el banco, limpié y unifiqué los mo
 - Visualización de gastos mediante tablas dinámicas y gráfico de torta
 - Automatización desarrollada con Google Apps Script
 
-<img width="270" alt="Diccionario control de finanzas" src="https://github.com/user-attachments/assets/fec43440-35de-4c84-abe6-1b35024d22e3" />
+<img width="300" alt="Diccionario control de finanzas" src="https://github.com/user-attachments/assets/fec43440-35de-4c84-abe6-1b35024d22e3" />
 Figura 2: Diccionario configurable utilizado para clasificar transacciones automáticamente.
 
 **Resultado**  
